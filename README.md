@@ -1,5 +1,3 @@
-### 🚀 [Click here to view my main project: GoutamHub](https://github.com/gaunasahoo/GoutamHub)
----
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      ANIMATED HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
